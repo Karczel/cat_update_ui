@@ -1,0 +1,7 @@
+main - create ui
+input_ui- make it so only after correct input is put can be submitted to mqtt
+format: time (time object), cat, send button, show error of format is wrong
+
+then update final database
+nodered pull data from database to get cat (from cat),
+add to last amount of cats(aggregrate) (global var?) then inject to prey db

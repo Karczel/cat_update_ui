@@ -1,0 +1,5 @@
+WIFI_SSID = 'MERCUSYS_079A_5G'
+WIFI_PASS = '54770157'
+MQTT_BROKER = "iot.cpe.ku.ac.th"
+MQTT_USER = "b6510545535"
+MQTT_PASS = "nantawan.pa@ku.th"
