@@ -5,3 +5,6 @@ format: time (time object), cat, send button, show error of format is wrong
 then update final database
 nodered pull data from database to get cat (from cat),
 add to last amount of cats(aggregrate) (global var?) then inject to prey db
+
+too much work
+I'll come back to this as experimenting on how to mqtt via python instead
