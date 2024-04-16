@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$USER_HOME$/Github/calculator" vcs="Git" />
     <mapping directory="$USER_HOME$/Github/unitconverter-after-deadline-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
